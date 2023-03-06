@@ -30,4 +30,4 @@ The license I have used for this project: undefined
 
 If you would like to contribute, N/A
 
-![image](./images/Screenshot_1.png)
+![image](./Develop/images/Screenshot_1.png)
